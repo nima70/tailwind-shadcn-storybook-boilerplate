@@ -1,4 +1,3 @@
-/** @type { import('@storybook/react').Preview } */
 import { ModeDecorator } from "./modeDecorator";
 import "../src/styles/globals.css";
 export const decorators = [ModeDecorator];
